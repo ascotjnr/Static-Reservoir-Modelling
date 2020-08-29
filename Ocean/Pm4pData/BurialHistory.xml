@@ -1,0 +1,4 @@
+<StorageInfo xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="ExplData">
+	<VersionNr>11</VersionNr>
+</StorageInfo>
+<ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
