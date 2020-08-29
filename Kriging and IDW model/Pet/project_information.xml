@@ -1,0 +1,29 @@
+<Petrel>
+<project>
+	<name>pet.pet</name>
+	<Xmin>510996.64041238</Xmin>
+	<Xmax>548374.68734398</Xmax>
+	<Ymin>6725484.80846950</Ymin>
+	<Ymax>6749953.44363281</Ymax>
+	<Zmin>-2402.00000000</Zmin>
+	<Zmax>2.00000000</Zmax>
+	<UnitXY>m</UnitXY>
+	<UnitZ>m</UnitZ>
+	<AreaUnit>m2</AreaUnit>
+	<VolumeUnit>m3</VolumeUnit>
+	<TimeUnit>ms</TimeUnit>
+	<VelocityUnit>m/s</VelocityUnit>
+	<SimulationUnitSystem>ECLIPSE-Metric</SimulationUnitSystem>
+	<Projection>ED50-UTM31</Projection>
+	<Datum>MSL</Datum>
+	<SeismicReferenceDatum>0.00000000</SeismicReferenceDatum>
+	<Country></Country>
+	<Area></Area>
+	<Block></Block>
+	<License></License>
+	<Comments></Comments>
+	<CharacterSet>1252  (ANSI - Latin I)</CharacterSet>
+	<Version>2013.5 (64-bit)</Version>
+	<Build>Feb 27 2014</Build>
+</project>
+</Petrel>
