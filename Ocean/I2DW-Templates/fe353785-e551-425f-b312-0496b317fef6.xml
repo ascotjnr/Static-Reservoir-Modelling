@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<FormatTemplate>
+  <Droid>://Slb.GeoscienceWindow.Framework.Core.DataSource.CoreDataSource/Type=Slb.GeoscienceWindow.Framework.Core.Templates.FormatTemplate&amp;id=fe353785-e551-425f-b312-0496b317fef6</Droid>
+  <ApplicationName>Petrel</ApplicationName>
+  <FrameworkVersion>2013.1</FrameworkVersion>
+  <Name>Well section template 1</Name>
+  <Pristine>true</Pristine>
+  <LastModified>02/01/2016 11:45:38</LastModified>
+  <ModifiedBy>mbexqrs5</ModifiedBy>
+  <TemplateCollection>://Slb.GeoscienceWindow.Framework.Core.DataSource.CoreDataSource/Type=Slb.GeoscienceWindow.Framework.Core.Templates.FormatTemplateCollection&amp;id=6921dccc-27e5-4e57-bdbc-319f71ed74ad</TemplateCollection>
+  <BoreholeTemplateItems>
+    <IndexFormatTemplate>
+      <Droid>://Slb.GeoscienceWindow.Framework.Core.DataSource.CoreDataSource/Type=Slb.GeoscienceWindow.Wellsection.Plugin.Petrel.Templates.IndexFormatTemplate&amp;id=d6c52128-a50b-4e5e-9d0c-d2ba4d4a361f</Droid>
+      <Name>Index track</Name>
+      <IsSelected>true</IsSelected>
+      <AllowedParentTypes>
+        <AllowedParentType>BoreholeRootFormatTemplateNode</AllowedParentType>
+        <AllowedParentType>DeviatedRootFormatTemplate</AllowedParentType>
+      </AllowedParentTypes>
+      <Styles>
+        <IndexTrackStyle>
+          <Droid>://Slb.GeoscienceWindow.Framework.Core.DataSource.CoreDataSource/Type=Slb.GeoscienceWindow.Wellsection.Core.Styles.IndexTrackStyle&amp;id=5df5d60f-6f71-42d0-adf6-206a1f97626b</Droid>
+          <FlattenAuto>true</FlattenAuto>
+          <FlattenStyle>Absolute</FlattenStyle>
+          <AnnotateAuto>true</AnnotateAuto>
+          <AnnotateStyle>Horizontal</AnnotateStyle>
+          <AnnotateAngle>0</AnnotateAngle>
+          <TickAuto>true</TickAuto>
+          <TickLeft>true</TickLeft>
+          <TickRight>true</TickRight>
+          <DepthKind>SSTVD</DepthKind>
+          <UseTrackWidth>false</UseTrackWidth>
+          <UseConstantWidth>false</UseConstantWidth>
+          <ConstantWidth>10</ConstantWidth>
+          <UseWellScale>false</UseWellScale>
+          <ShowScaleLabel>true</ShowScaleLabel>
+          <MajorIncrementAuto>true</MajorIncrementAuto>
+          <MajorIncrementManualValue>100</MajorIncrementManualValue>
+          <NumberOfMinorTicks>10</NumberOfMinorTicks>
+        </IndexTrackStyle>
+      </Styles>
+    </IndexFormatTemplate>
+  </BoreholeTemplateItems>
+  <WellsectionTemplateItems />
+  <CorrelationTemplateItems />
+  <DeviatedTemplateItems />
+  <Color>LightBlue</Color>
+  <Comment>Well section template</Comment>
+</FormatTemplate>
